@@ -4,7 +4,7 @@
 
 [![Static Badge](https://img.shields.io/badge/Telegram-Bot%20Link-Link?style=for-the-badge&logo=Telegram&logoColor=white&logoSize=auto&color=blue)](https://t.me/np/app?startapp=f2087936510_s737078)
 
-# 🎨AUTO FARM FOR np 🎨
+# 🎨AUTO FARM FOR NotPixel 🎨
 
 > [!WARNING]
 > I am not responsible for your account. Please consider the potential risks before using this bot.
@@ -65,10 +65,10 @@ Before you begin, make sure you have the following installed:
 3. Record the API_ID and API_HASH provided after registering your application in the .env file.
 
 ## Installation
-You can download the [**repository**](https://github.com/asish1346/np) by cloning it to your system and installing the necessary dependencies:
+You can download the [**repository**](https://github.com/asish1346/NotPixelBot) by cloning it to your system and installing the necessary dependencies:
 ```shell
-git clone https://github.com/asish1346/NotPixel.git
-cd NotPixel
+git clone https://github.com/asish1346/NotPixelBot.git
+cd NotPixelBot
 ```
 
 Then you can do automatic installation by typing:
